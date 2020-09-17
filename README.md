@@ -7,3 +7,5 @@ I changed the index.html to improve accessibility. I focussed on adding semantic
 The css formatting is the same, but I have consolidated parts to remove repitition in the formatting. I restructured some of the elements to take precedence over others. I have commented where I made these changes.
 
 This application is deployed at [Link](https://26rsuarez.github.io/Homework1/)
+
+![Website Screenshot](/assets/hw1image.JPG)
